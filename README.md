@@ -35,6 +35,3 @@ Here are some ideas to get you started:
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=yellow)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Gitpod](https://img.shields.io/badge/Gitpod-000000?style=for-the-badge&logo=gitpod&logoColor=#FFAE33)
-
-
-[![card](https://github-readme-stats.vercel.app/api?username=carlos-moreno&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
