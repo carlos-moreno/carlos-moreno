@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 ![Gitpod](https://img.shields.io/badge/Gitpod-000000?style=for-the-badge&logo=gitpod&logoColor=#FFAE33)
 
 
-[![card](https://github-readme-stats.vercel.app/api?username=carlos-moreno&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+# [![card](https://github-readme-stats.vercel.app/api?username=carlos-moreno&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
